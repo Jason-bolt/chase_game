@@ -1,3 +1,8 @@
+'''
+This work is an original work and belongs to Jason Kwame Appiatu.
+This was done as part of a university course on AI in the university of Cape Coast
+'''
+
 import sys
 import random
 from colorama import Fore, Back, Style
